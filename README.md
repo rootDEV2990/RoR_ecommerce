@@ -2,6 +2,10 @@
 
 Built to play with Solidus and try to build a CMS solution. Check it out the power of Rails ;). Newest work is in my feature branch...ya know..#gitflow
 
+## Guide
+
+Check our feature branch #gitflow
+
 ### Prerequisites
 
 Ruby and Rails...click link for more.
